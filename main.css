@@ -1,0 +1,133 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+.main{
+    height: 500px;
+    width : 100%;
+    background-color:black;
+}
+/*a :hover{
+background-color:white;
+}*/
+/* unvisited link */
+/*a:link {
+  color: black;
+}
+
+/* visited link */
+a:visited {
+  color:black;
+}
+
+/* mouse over link */
+a:hover {
+  color:white;
+}
+
+/* selected link */
+/*a:active {
+  color:black;
+}*/
+a{
+  font-weight: bolder;
+ /* color: black;*/
+  font-style: normal;
+  text-decoration: none;
+  font-size: larger;
+}
+header{
+    height: 80px;
+    width: 100%;
+    background-color:red;
+    position : fixed;
+  
+}
+.main h3{
+    color: white;
+    padding-top: 20px;
+    text-align: center;;
+}
+
+  
+ul{
+    float: right;
+    padding: 30px;
+  
+  
+   
+}
+ul li{
+    display: inline;
+    padding: 20px;
+    
+    /*margin: 20px;*/
+}
+
+h1{
+    font-style: inherit;
+    font-weight: bolder;
+    color: mintcream;
+
+    text-align: center;
+    padding-top : 220px;
+}
+
+
+.content{
+    height: 200px;
+    width: 100%;
+    text-align :center;
+}
+
+
+/*  .fa */
+    .fa {
+      padding: 20px;
+      font-size: 30px;
+      width: 20px;
+      text-align: center;
+      text-decoration: none;
+      margin: 5px 2px;
+      border-radius: 50%;
+    }
+    /*.fa:hover {
+      opacity: 0.7;
+    
+   /* padding: 20px;  
+    font-size: 30px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want*/
+  .fa:hover {
+    opacity: 0.7;
+  } 
+  .fa{
+      float: left;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    margin: 10px;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    margin: 10px;
+  }
+  .aboutMe{
+    padding-top: 20px;
+    font-size: 50px;
+  }
+  .hireMe{
+    padding-top: 10px;
+  }
