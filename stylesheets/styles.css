@@ -120,7 +120,7 @@ dl, dt, dd, dl p {
 }
 
 dl dt {
-  font-weight: bold;
+  font-weight: normal;
 }
 
 dl dd {
