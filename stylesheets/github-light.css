@@ -65,7 +65,7 @@
 }
 
 .pl-sr .pl-cce /* string.regexp constant.character.escape */ {
-  font-weight: bold;
+  font-weight: normal;
   color: #22863a;
 }
 
@@ -76,7 +76,7 @@
 .pl-mh /* markup.heading */,
 .pl-mh .pl-en /* markup.heading entity.name */,
 .pl-ms /* meta.separator */ {
-  font-weight: bold;
+  font-weight: normal;
   color: #005cc5;
 }
 
@@ -86,7 +86,7 @@
 }
 
 .pl-mb /* markup.bold */ {
-  font-weight: bold;
+  font-weight: normal;
   color: #24292e;
 }
 
@@ -111,7 +111,7 @@
 }
 
 .pl-mdr /* meta.diff.range */ {
-  font-weight: bold;
+  font-weight: normal;
   color: #6f42c1;
 }
 
