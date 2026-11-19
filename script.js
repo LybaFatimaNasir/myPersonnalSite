@@ -1,7 +1,7 @@
-// ===== Terminal "test run" sequence =====
+﻿// ===== Terminal "test run" sequence =====
 const assertions = [
   { text: "4+ years of experience in QA &amp; test automation", status: "pass" },
-  { text: "API testing — Postman, Bruno, SQL", status: "pass" },
+  { text: "API testing mastery — Postman, Bruno &amp; REST APIs", status: "pass" },
   { text: "CI/CD — Jenkins, Azure DevOps, JIRA", status: "pass" },
   { text: "ISTQB CTFL v4.0 certified — 85%", status: "pass" },
   { text: "Playwright automation", status: "progress" }
